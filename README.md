@@ -1,5 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
-</p>
-
+  <img src="https://raw.githubusercontent.com/elauqzz/elauqzz/main/jump.gif" />
 </p>
